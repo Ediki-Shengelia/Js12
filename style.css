@@ -1,0 +1,38 @@
+.form-el {
+  max-width: 300px;
+  width: 100%;
+  
+}
+.section {
+  display: flex;
+  justify-content: center;
+  margin-top: 250px;
+  
+}
+.flex-div {
+  display: flex;
+  flex-direction: column;
+}
+.center {
+  text-align: center;
+}
+.error-text {
+  color: red;
+}
+.flex-div {
+  position: relative;
+}
+.iconPassw {
+  position: absolute;
+  bottom: 2px;
+  right: 10px;
+}
+.btn {
+  margin-top: 20px;
+  border-radius: 20px;
+  background-color: rgb(12, 237, 12);
+  font-size: 35px;
+  color: white;
+  width: 300px;
+  height: 70px;
+}
